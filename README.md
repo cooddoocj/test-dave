@@ -7,4 +7,4 @@ These files acompany the tutorial: [Creating a blog from scratch with PHP - Part
 * nhập database.sql pma
 * demo/demo admin đăng nhập
 * includes/config.php sửa db
-* RewriteBase /daveismyname/ base url tương đối (xoá)
+* RewriteBase /daveismyname/ base url tương đối (xoá) .htaccess
